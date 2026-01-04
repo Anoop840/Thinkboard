@@ -21,4 +21,23 @@ Backend
 - Upstash Redis: Serverless Redis for global rate limiting.
 
 # Getting Started
-  
+1. Prerequisites
+- Node.js (v18+)
+- MongoDB Instance (Atlas or Local)
+- Upstash Redis Account
+
+2. Installation
+# Clone the repository
+git clone <your-repo-url>
+cd thinkboard
+
+# Install Backend dependencies
+cd backend
+npm install
+
+# Install Frontend dependencies
+cd ../frontend/thinkboard
+npm install
+
+
+
