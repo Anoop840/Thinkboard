@@ -27,17 +27,19 @@ Backend
 - Upstash Redis Account
 
 2. Installation
-# Clone the repository
-git clone <your-repo-url>
+Clone the repository
+git clone <https://github.com/Anoop840/Thinkboard.git>
 cd thinkboard
 
-# Install Backend dependencies
+Install Backend dependencies
 cd backend
 npm install
 
-# Install Frontend dependencies
+Install Frontend dependencies
 cd ../frontend/thinkboard
 npm install
 
+# License
+This project is licensed under the ISC License.
 
 
