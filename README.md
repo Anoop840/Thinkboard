@@ -29,6 +29,7 @@ Backend
 2. Installation
 Clone the repository
 git clone <https://github.com/Anoop840/Thinkboard.git>
+
 cd thinkboard
 
 Install Backend dependencies
