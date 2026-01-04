@@ -30,15 +30,14 @@ Backend
 Clone the repository
 git clone <https://github.com/Anoop840/Thinkboard.git>
 
-cd thinkboard
 
 Install Backend dependencies
-cd backend
-npm install
+- cd backend
+- npm install
 
 Install Frontend dependencies
-cd ../frontend/thinkboard
-npm install
+- cd ../frontend/thinkboard
+- npm install
 
 # License
 This project is licensed under the ISC License.
